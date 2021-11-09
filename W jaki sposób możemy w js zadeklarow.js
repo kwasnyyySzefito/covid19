@@ -129,5 +129,15 @@ Classes UserPersonalInfo {
     Protokół HTTP jest bezstanowy, co oznacza, iż każde spośród zapytań może.zostac zinterpretowane w oderwaniu od reszty.
     Poza serwerami i klientami w komunikacji muszą występować dodatkowe węzły. Mogą to być przykładowo serwery, które zachowają kopię odpowiedzi, przyspieszając tym samym komunikację. Mogą to być również elementy sieciowe, które umożliwiają sprawne docieranie żądań do serwera.
     W trakcie wpisywania adresu do przeglądarki korzystamy z metody URL
+    
+    
+    
+    
+    PRACA WYKONANA PRZEZ OSOBY:
+- KACPER WAŚNIEWSKI,
+- KRZYSZTOF MAZURKIEWICZ.
+    
+    
+    
 
 
